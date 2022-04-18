@@ -1,0 +1,10 @@
+﻿Name,AA seq,AA source,Notes,Priority,mini exp
+FLAG,DYKDDDDK,,Kudo paper,,Yes
+HA,YPYDVPDYA,,"Internal, Kudo paper",,Yes
+C-Myc,EQKLISEEDL,,"Internal, Kudo paper",High,Yes
+OLLAS,SGFANELGPRLMGK,,Kudo Paper,,Yes
+Strep II,NWSHPQFEK,procode paper,Internal (seq from https://www.cell.com/cell/fulltext/S0092-8674(18)31234-0),,Yes
+V5,GKPIPNPLLGLDST,,"Internal, Kudo paper",High,Yes
+ALFA,SRLEEELRRRLTE,Alfa paper,Internal; Nanotag,High,Yes
+S1,NANNPDWDF,procode paper,https://www.cell.com/cell/fulltext/S0092-8674(18)31234-0,,Yes
+AU1,DTYRYI,procode paper,could also do AU5 (per whitepaper),,Yes
