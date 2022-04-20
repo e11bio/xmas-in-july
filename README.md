@@ -1,2 +1,3 @@
 # xmas-in-july
-epitope tag generator
+
+Generating epitope tags for gene block synthesis + cloning.
