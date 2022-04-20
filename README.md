@@ -8,7 +8,7 @@ DNAChisel (for codon optimization; forward thinking) can be installed via pip; c
 
 # Wish list
 
-[ ] convert AA -> codon optimized DNA (DNA chisel)
-[ ] fragment generator, avoiding cloning handles within &c (DNA Chisel) and adding DNA tails for KI
-[ ] plasmid assembler (final map -> Genscript/cloning CRO) (dna chisel or pydna?)
-[ ] primer design step (sanger; NGS; whole plasmid?
+- [ ] convert AA -> codon optimized DNA (DNA chisel)
+- [ ] fragment generator, avoiding cloning handles within &c (DNA Chisel) and adding DNA tails for KI
+- [ ] plasmid assembler (final map -> Genscript/cloning CRO) (dna chisel or pydna?)
+- [ ] primer design step (sanger; NGS; whole plasmid?
