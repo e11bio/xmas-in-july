@@ -1,0 +1,23 @@
+﻿Name,AA seq,AA source,Notes,Priority,for testing alone,mini exp
+C-Myc,EQKLISEEDL,Kudo,"Internal, Kudo paper",High,Yes,Yes
+HA,YPYDVPDYA,Kudo,"Internal, Kudo paper",,Yes,Yes
+V5,GKPIPNPLLGLDST,Kudo,"Internal, Kudo paper",High,Yes,Yes
+FLAG,DYKDDDDK,Kudo,Kudo paper,,Yes,Yes
+VSV,YTDIEMNRLGK,Kudo,"Kudo paper, original proposal",,Yes,No
+His,HHHHHH,Kudo,Kudo Paper,,Yes,No
+MAT,HNHRHKH,kudo,Kudo Paper,,Yes,No
+OLLAS,SGFANELGPRLMGK,Kudo,Kudo Paper,,Yes,Yes
+Protein C,EDQVDPRLIDGK,kudo,Kudo Paper,,Yes,No
+Universal,HTTPHH,Kudo,Kudo Paper,,Yes,No
+T7,MASMTGGQQMG,kudo,Kudo Paper,,Yes,No
+AU5,TDFYLK,kudo,Kudo Paper,,Yes,No
+Strep,SAWSHPQFEK,Kudo paper,Kudo Paper,,Yes,No
+SRT,TFIGAIATDT,kudo,Kudo Paper,,Yes,No
+tag-100,EETARFQPGYRS,kudo,Kudo Paper,,Yes,No
+Glu-Glu,CEEEEYMPME,Kudo,Kudo Paper,,Yes,No
+NWS,NWSHPQFEK,Kudo paper,Kudo Paper; same antibody as Strep tag,,Yes,No
+E,GAPVPYPDPLEPR,kudo,Kudo Paper,,Yes,No
+ALFA,SRLEEELRRRLTE,Alfa paper,Internal; Nanotag,High,Yes,Yes
+Suntag,EELLSKNYHLENEVARLKK,pulled from snapgene file relating to paper,GCN4_v4,,Yes,No
+Spot,PDRVRAVSHWSS,Spot tag paper,,,Yes,No
+Moontag,KNEQELLELDKWASL,pulled from snapgene file relating to paper,"gp41 peptide (""Moontag"")",,Yes,No
